@@ -10,8 +10,6 @@
 ::terms_of_use <link>
 
 
-# replace the following lines - click on the (i) to get a tutorial:
-
 How are you?
 I am feeling bananas.
 
